@@ -15,15 +15,20 @@ export default function Page() {
   </p>
 </div>
       <div className="mt-4 flex gap-6 text-sm">
-  <a href="https://github.com/onofrio0306-tech" target="_blank">
+  <a href="https://github.com/onofrio0306-tech" target="_blank" rel="noopener noreferrer">
     GitHub
   </a>
-  <a href="mailto:onofrio0306@gmail.com">
-    Email
-  </a>
-  <a href="https://www.linkedin.com/in/michael-volpe1/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/michael-volpe1/" target="_blank" rel="noopener noreferrer">
     LinkedIn
   </a>
+</div>
+
+<div className="mt-4 text-sm text-neutral-400">
+  <a href="mailto:onofrio0306@gmail.com" className="underline">
+    Contact Me
+  </a>
+  <span className="ml-2">onofrio0306@gmail.com</span>
 </div>
     </section>
   )
