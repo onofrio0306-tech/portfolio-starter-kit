@@ -9,7 +9,12 @@ export default function Page() {
       <p className="mb-4">
         {`I’m a cybersecurity and IT networking student focused on building real-world skills in networking, systems, and security. I’ve worked on hands-on labs involving Windows Server, AWS, vulnerability scanning, and network configuration. I’m actively preparing for certifications like CompTIA A+ and exploring different areas within cybersecurity as I continue to grow my skills.`}
       </p>
-      <div className="mt-6 flex gap-4 text-sm">
+      <div className="my-8">
+  <p className="text-sm text-neutral-400">
+    Projects coming soon as I continue building hands-on experience.
+  </p>
+</div>
+      <div className="mt-4 flex gap-6 text-sm">
   <a href="https://github.com/onofrio0306-tech" target="_blank">
     GitHub
   </a>
