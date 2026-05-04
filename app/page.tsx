@@ -14,7 +14,7 @@ export default function Page() {
     Projects coming soon as I continue building hands-on experience.
   </p>
 </div>
-      <div className="mt-4 flex gap-6 text-sm">
+  <div className="mt-4 flex gap-6 text-sm">
   <a href="https://github.com/onofrio0306-tech" target="_blank" rel="noopener noreferrer">
     GitHub
   </a>
@@ -22,13 +22,10 @@ export default function Page() {
   <a href="https://www.linkedin.com/in/michael-volpe1/" target="_blank" rel="noopener noreferrer">
     LinkedIn
   </a>
-</div>
 
-<div className="mt-4 text-sm text-neutral-400">
-  <a href="mailto:onofrio0306@gmail.com" className="underline">
-    Contact Me
+  <a href="mailto:onofrio0306@gmail.com">
+    Email
   </a>
-  <span className="ml-2">onofrio0306@gmail.com</span>
 </div>
     </section>
   )
