@@ -14,7 +14,7 @@ export default function Resume() {
       </h1>
 
       <p style={{ opacity: 0.7, marginBottom: "40px" }}>
-        Cybersecurity & IT Networking Student • Future Cloud Security Engineer
+        Cybersecurity & IT Networking Student • Building Hands-On Skills in Cloud, Networking, and Security
       </p>
 
       <div style={{ marginBottom: "20px" }}>
