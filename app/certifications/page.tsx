@@ -1,7 +1,9 @@
 export default function Certifications() {
   return (
-    <div style={{ padding: "40px", textAlign: "center" }}>
-      <h1 style={{ marginBottom: "30px" }}>Certifications</h1>
+   <div style={{ padding: "40px", maxWidth: "1000px", margin: "0 auto" }}>
+      <h1 style={{ marginBottom: "30px", textAlign: "center" }}>
+  Certifications
+</h1>
 
       <div
         style={{
