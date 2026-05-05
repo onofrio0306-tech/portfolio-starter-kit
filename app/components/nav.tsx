@@ -3,6 +3,7 @@ import Link from 'next/link'
 const navItems = {
   '/': { name: 'Home' },
   '/certifications': { name: 'Certifications' },
+  '/resume': { name: 'Resume' },
 }
 
 export function Navbar() {
