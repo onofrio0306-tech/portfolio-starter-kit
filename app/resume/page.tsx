@@ -1,13 +1,15 @@
 export default function Resume() {
   return (
     <div
-      style={{
-        padding: "60px 20px",
-        textAlign: "center",
-        minHeight: "100vh",
-        background: "linear-gradient(135deg, #0f172a, #1e1b4b)",
-        color: "white",
-      }}
+   style={{
+  padding: "80px 20px",
+  textAlign: "center",
+  background: "linear-gradient(135deg, #0f172a, #1e1b4b)",
+  color: "white",
+  borderRadius: "16px",
+  maxWidth: "700px",
+  margin: "80px auto",
+}}
     >
       <h1 style={{ fontSize: "40px", marginBottom: "10px" }}>
         Resume
