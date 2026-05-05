@@ -21,7 +21,7 @@ export default function Certifications() {
               width: "100%",
               borderRadius: "8px",
               maxHeight: "250px",
-              objectFit: "cover",
+              objectFit: "contain",
             }}
           />
         </div>
@@ -34,7 +34,7 @@ export default function Certifications() {
               width: "100%",
               borderRadius: "8px",
               maxHeight: "250px",
-              objectFit: "cover",
+              objectFit: "contain",
             }}
           />
         </div>
@@ -47,7 +47,7 @@ export default function Certifications() {
               width: "100%",
               borderRadius: "8px",
               maxHeight: "250px",
-              objectFit: "cover",
+              objectFit: "contain",
             }}
           />
         </div>
@@ -60,7 +60,7 @@ export default function Certifications() {
               width: "100%",
               borderRadius: "8px",
               maxHeight: "250px",
-              objectFit: "cover",
+              objectFit: "contain",
             }}
           />
         </div>
